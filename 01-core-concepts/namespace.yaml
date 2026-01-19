@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: dev
+
+
+
+# This is a yaml file but same can be achieved using imperative commands: 
+# 1. kubectl create namespace dev
+# 2. k create ns dev
