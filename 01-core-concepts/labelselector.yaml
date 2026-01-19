@@ -10,3 +10,8 @@ spec:
   containers:
   - name: nginx
     image: nginx
+# label Selector used in Service / Deployment to select above pod it will match selector with label of the pod.
+# selector:
+  # matchLabels:
+    # app: frontend
+    # tier: web
