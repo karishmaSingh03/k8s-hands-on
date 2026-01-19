@@ -1,9 +1,8 @@
-# Certified Kubernetes Administrator (CKA) – Hands-on Practice
-
+# Certified Kubernetes Administrator (CKA)
 [![Certified Kubernetes Administrator](assets/cka-badge.jpg)](https://www.credly.com/badges/c413e491-2d02-4f05-bcae-e322e93b7f53/public_url)
 
 
-# k8s-hands-on
+# k8s-Hands-on Practice
 ## About This Repository
 
 This repository contains hands-on Kubernetes manifests created while preparing for
