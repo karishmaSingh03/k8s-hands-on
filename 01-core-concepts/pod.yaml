@@ -11,3 +11,14 @@ spec:
     image: nginx:latest
     ports:
     - containerPort: 80
+
+# This is a yaml file but same can be achieved using imperative commands: 
+# 1. kubectl create namespace dev
+# 2. k create ns dev
+
+# To test the pods use below commands: 
+# kubectl apply -f pod.yaml
+# kubectl get pods -n dev
+# kubectl describe pod nginx-pod -n dev
+# kubectl logs nginx-pod -n dev
+#* ns should exist before creating pod in thar ns
