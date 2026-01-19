@@ -13,8 +13,7 @@ spec:
     - containerPort: 80
 
 # This is a yaml file but same can be achieved using imperative commands: 
-# 1. kubectl create namespace dev
-# 2. k create ns dev
+# 1. kubectl run nginx-pod -n dev --image=nginx:latest --port=80   
 
 # To test the pods use below commands: 
 # kubectl apply -f pod.yaml
