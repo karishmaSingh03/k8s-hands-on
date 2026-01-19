@@ -28,16 +28,16 @@ Skills Covered
 Repository Structure
 
 cka-kubernetes-practice/
-📂 01-core-concepts/
-📂 02-workloads/
-📂 03-networking/
-📂 04-configuration/
-📂 05-storage/
-📂 06-scheduling/
-🔒 07-security/
-⚠️ 08-troubleshooting/
-💻 imperative-commands/
-📄 README.md
+- 📂 01-core-concepts/
+- 📂 02-workloads/
+- 📂 03-networking/
+- 📂 04-configuration/
+- 📂 05-storage/
+- 📂 06-scheduling/
+- 🔒 07-security/
+- ⚠️ 08-troubleshooting/
+- 💻 imperative-commands/
+- 📄 README.md
 
 Practice Environment
 - Kubernetes Cluster: Kind 
