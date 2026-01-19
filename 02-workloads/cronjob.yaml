@@ -10,3 +10,4 @@ spec:
         image: busybox
         command: ["sh", "-c", "echo Hello Kubernetes"]
       restartPolicy: Never
+# used for batch jobs, backups, migrations
