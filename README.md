@@ -5,7 +5,7 @@
 # k8s-Hands-on Practice
 ## About This Repository
 
-This repository contains hands-on Kubernetes manifests created while preparing for
+This repository contains hands-on Kubernetes manifests created to upload yamls worked during preparation for
 the Certified Kubernetes Administrator (CKA) certification.
 
 Topics covered:
