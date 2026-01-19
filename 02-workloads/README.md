@@ -22,9 +22,10 @@ These YAMLs are aligned with:
 ---
 
 ## 📄 Files Overview
-02-workloads/
-├── deployment.yaml # Defines stateless application deployment with rolling updates
-├── replicaset.yaml # Ensures a specified number of pod replicas are running
-├── statefulset.yaml # Manages stateful applications with stable pod identity
-├── daemonset.yaml # Runs a pod on every node in the cluster
-└── cronjob.yaml # Schedules recurring batch jobs
+| File | Description |
+|-----|------------|
+| `deployment.yaml` | Stateless application deployment with rolling updates |
+| `replicaset.yaml` | Ensures the desired number of pod replicas are running |
+| `statefulset.yaml` | Manages stateful applications with stable network identity |
+| `daemonset.yaml` | Runs one pod on every node in the cluster |
+| `cronjob.yaml` | Schedules recurring batch jobs |
