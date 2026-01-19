@@ -8,3 +8,8 @@ metadata:
 # This is a yaml file but same can be achieved using imperative commands: 
 # 1. kubectl create namespace dev
 # 2. k create ns dev
+
+/* to test the namespace use below commands
+ kubectl apply -f namespace.yaml
+kubectl get namespaces
+kubectl describe namespace dev */
