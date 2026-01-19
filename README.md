@@ -1,4 +1,4 @@
-# Certified Kubernetes Administrator (CKA)
+# My CKA certificate badge and Verification Link
 [![Certified Kubernetes Administrator](assets/cka-badge.jpg)](https://www.credly.com/badges/c413e491-2d02-4f05-bcae-e322e93b7f53/public_url)
 
 
